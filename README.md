@@ -1,6 +1,5 @@
 # Stock-Analyzer
 
-Description of the program
 The Stock Analyzer is a financial tool used to aid in an investor’s analysis of certain stocks. This tool can be used to analyze price trends and apply algorithmic trading strategies to historic stock prices. This program utilizes many features which include:
 
 •	Using Google Finance’s API in order to analyze historical stock prices.
