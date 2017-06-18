@@ -17,3 +17,4 @@ The program has two main analysis options:
 1.	Trend Analysis: Constructs a trend line and determines the correlation strength for the chosen stock’s historical prices over the chosen time period. 
 
 2.	Algorithmic Trading Analysis: Applies the SMA trading algorithm to the chosen stock’s historical prices over the chosen time period.  
+ 
