@@ -1,4 +1,4 @@
-# Stock-Analyzer
+# Stock Analyzer
 
 ![Screenshot](StockAnalyzerPicture.jpg)
 
